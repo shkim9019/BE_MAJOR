@@ -22,6 +22,10 @@ MSG(My Sport Ground)
 ![WBS](https://github.com/shkim9019/BE_MAJOR/blob/master/BE_MAJOR_WBS.PNG "WBS") 
 
 ### 5. 기본설계서
-![WBS](https://github.com/shkim9019/BE_MAJOR/blob/master/BE_MAJOR_%EA%B8%B0%EB%B3%B8%EC%84%A4%EA%B3%84%EC%84%9C.PNG "기본설계서") 
+![기본설계서](https://github.com/shkim9019/BE_MAJOR/blob/master/BE_MAJOR_%EA%B8%B0%EB%B3%B8%EC%84%A4%EA%B3%84%EC%84%9C.PNG "기본설계서") 
 
+
+### 6. 시연영상
+
+![시연영상](https://youtu.be/RlzPR2IpHto "시연영상") 
 
