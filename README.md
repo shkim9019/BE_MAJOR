@@ -27,5 +27,5 @@ MSG(My Sport Ground)
 
 ### 6. 시연영상
 
-<https://youtu.be/RlzPR2IpHto "시연영상">
+<https://youtu.be/RlzPR2IpHto>
 
